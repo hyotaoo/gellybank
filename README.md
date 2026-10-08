@@ -1,6 +1,3 @@
-# gellybank
-A robust, customtkinter-based application designed to simulate core banking functionalities. Showcasing core object-oriented programming, data handling, and database management.
-
 # Features
 - User Authentication: Secure login and registration for customers and bank administrators.
 - Account Management: Create, view, and close savings or current accounts.
